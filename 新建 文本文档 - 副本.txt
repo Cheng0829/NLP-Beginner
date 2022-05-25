@@ -1,0 +1,6 @@
+(√) CNN,ResNet,RNN,GRU,LSTM,BiLSTM,DL基础,概率图模型(李航-书:隐马尔可夫模型(有向)+条件随机场CRF(无向)),词嵌入(Word2Vec,情感分类),序列模型(Seq2Seq,机器翻译,束搜索,BLEU得分,注意力模型,语音识别)
+
+③Edge/B站: 
+Transformer -> BERT
+
+
